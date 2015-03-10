@@ -26,6 +26,7 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+<<<<<<< HEAD
 
 node_modules/
 platforms/
@@ -34,3 +35,5 @@ plugins/
 .DS_Store
 .AppleDouble
 .LSOverride
+=======
+>>>>>>> 19841e6038838afb775ee52bf5e6c41072f44e17
